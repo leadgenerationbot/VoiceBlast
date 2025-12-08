@@ -1,5 +1,7 @@
 Applications on Voice Blast - https://www.youtube.com/watch?v=McBvE0ryxH4&t=9s
 
+On Twitter - https://x.com/sharan4khanna/status/1997630836925976736?s=20
+
 
 
 # VoiceBlast
