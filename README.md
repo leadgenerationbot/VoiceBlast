@@ -10,7 +10,7 @@ Complete Cloud-Based Voice Broadcasting Solution - No Infrastructure Required! �
 
 VoiceBlast is a **fully managed cloud telephony API** that lets you integrate professional automated calling campaigns into your applications **without owning any servers, Asterisk PBX, or telecom infrastructure**. Just call our API and start broadcasting!
 
-**Built by**: Jasmeet Pabla, Co Founder [IndiaTransform.com](https://IndiaTransform.com)
+**Built by**: Sharan Khanna, Co Founder [IndiaTransform.com](https://IndiaTransform.com)
 
 ---
 
@@ -80,8 +80,8 @@ Integrate multi-channel campaigns (Email + SMS + Voice) seamlessly.
 ### Step 1: Get API Access
 ```bash
 # Contact for API credentials
-WhatsApp: +91 9855757407
-Email: jasmeetpabla22@gmail.com
+WhatsApp: +91 9643644684
+Email: sharan4khanna@gmail.com
 ```
 
 ### Step 2: Load Coins
@@ -375,7 +375,7 @@ response = requests.post(f"{API_BASE}/campaign/create", json={
 | Business | 200 | Contact Us | Contact Us |
 | Enterprise | Custom | Custom | Custom |
 
-**📞 Contact: +91 9855757407 (WhatsApp) for pricing**
+**📞 Contact: +91 9643644684 (WhatsApp) for pricing**
 
 ---
 
@@ -450,7 +450,7 @@ response = requests.post(f"{API_BASE}/campaign/create", json={
 ## 📞 Getting Started
 
 ### Step 1: Contact Us
-**WhatsApp/Call:** +91 9855757407  
+**WhatsApp/Call:** +91 9643644684  
 **Founder:** Sharan Khanna  
 **Company:** IndiaTransform.com
 
@@ -583,7 +583,7 @@ class VoiceBlastClient {
 ## 🆘 Support & Custom Development
 
 ### Need Help?
-- **WhatsApp Support:** +91 9855757407
+- **WhatsApp Support:** +91 9643644684
 - **Email:** contact@indiatransform.com
 - **Response Time:** Within 24 hours
 
@@ -626,7 +626,7 @@ We can develop:
 ## 🚀 Ready to Start?
 
 ### Contact Now:
-📱 **WhatsApp/Call:** +91 9855757407  
+📱 **WhatsApp/Call:** +91 9643644684  
 👤 **Founder:** Sharan Khanna  
 🌐 **Website:** [IndiaTransform.com](https://IndiaTransform.com)  
 ✉️ **Email:** sharan4khanna@gmail.com
